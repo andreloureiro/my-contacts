@@ -1,0 +1,767 @@
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/my_contacts/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.086 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/my_contacts/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/omcljs/om/1.0.0-alpha14/om-1.0.0-alpha14.jar!/om/dom.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/omcljs/om/1.0.0-alpha14/om-1.0.0-alpha14.jar!/om/next/cache.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/clojure/clojurescript/1.7.166/clojurescript-1.7.166.jar!/clojure/zip.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/omcljs/om/1.0.0-alpha14/om-1.0.0-alpha14.jar!/om/next/impl/parser.cljc
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/omcljs/om/1.0.0-alpha14/om-1.0.0-alpha14.jar!/om/next/protocols.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/clojure/clojurescript/1.7.166/clojurescript-1.7.166.jar!/clojure/walk.cljs
+Reading analysis cache for jar:file:/home/andrel/.m2/repository/org/omcljs/om/1.0.0-alpha14/om-1.0.0-alpha14.jar!/om/next.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/my_contacts/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.376 seconds.[0m
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.046 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.057 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.041 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.053 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.054 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.052 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.079 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: [] at line 1 src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:562)
+    cljs.analyzer$error.invoke (analyzer.cljc:560)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1705)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1751)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$reduce1.invoke (core.clj:900)
+    clojure.core$merge_with.doInvoke (core.clj:2936)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1845$fn__1847$fn__1852.invoke (analyzer.cljc:1938)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1845$fn__1847.invoke (analyzer.cljc:1921)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15830.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15876.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15827.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15630.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15639.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15633.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15651.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738$fn__15743.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738.invoke (auto.clj:178)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15830.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15876.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15827.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15630.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15639.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15633.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15651.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738$fn__15743.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738.invoke (auto.clj:178)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15830.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15876.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15827.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15630.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15639.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15633.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15651.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738$fn__15743.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738.invoke (auto.clj:178)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15830.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15876.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15827.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15630.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15639.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15633.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15651.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738$fn__15743.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738.invoke (auto.clj:178)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/binaryage/devtools/0.4.1/devtools-0.4.1.jar!/devtools/core.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/binaryage/devtools/0.4.1/devtools-0.4.1.jar!/devtools/sanity_hints.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/org/clojure/clojurescript/1.7.145/clojurescript-1.7.145.jar!/cljs/stacktrace.cljc
+Analyzing jar:file:/home/andrel/.m2/repository/binaryage/devtools/0.4.1/devtools-0.4.1.jar!/devtools/prefs.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/binaryage/devtools/0.4.1/devtools-0.4.1.jar!/devtools/format.cljs
+Compiling resources/public/js/out/devtools/core.cljs
+Compiling resources/public/js/out/devtools/prefs.cljs
+Compiling resources/public/js/out/devtools/format.cljs
+Compiling resources/public/js/out/devtools/sanity_hints.cljs
+Compiling resources/public/js/out/cljs/stacktrace.cljc
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.801 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.078 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.113 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.073 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.08 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.113 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.076 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.079 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.073 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.083 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.086 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.073 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.115 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.072 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+WARNING: No such namespace: string, could not locate string.cljs, string.cljc, or Closure namespace "" at line 18 src/cljs/my_contacts/core.cljs
+WARNING: Use of undeclared Var string/escape at line 18 src/cljs/my_contacts/core.cljs
+WARNING: Use of undeclared Var my-contacts.core/go at line 24 src/cljs/my_contacts/core.cljs
+WARNING: Use of undeclared Var my-contacts.core/<! at line 24 src/cljs/my_contacts/core.cljs
+WARNING: No such namespace: http, could not locate http.cljs, http.cljc, or Closure namespace "" at line 24 src/cljs/my_contacts/core.cljs
+WARNING: Use of undeclared Var http/get at line 24 src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.071 seconds.[0m
+notifying browser that file changed:  /my_contacts/core.js
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling src/cljs/my_contacts/core.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/org/omcljs/om/0.9.0/om-0.9.0.jar!/om/next.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/org/omcljs/om/0.9.0/om-0.9.0.jar!/om/next/stores.cljs
+Analyzing jar:file:/home/andrel/.m2/repository/org/omcljs/om/0.9.0/om-0.9.0.jar!/om/next/protocols.cljs
+[31mCompiling "resources/public/js/main.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/my_contacts/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15830.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15876.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15827.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15630.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15636.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15639.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15633.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15651.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738$fn__15743.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15737$state_machine__9543__auto____15738.invoke (auto.clj:178)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/main.js" failed.[0m
+java.lang.AbstractMethodError: Method clojurescript_build/core/CompilableSourcePaths._find_sources(Ljava/lang/Object;)Ljava/lang/Object; is abstract
+ at clojurescript_build.core.CompilableSourcePaths._find_sources (core.clj:-1)
+    cljs.closure$build$fn__4056.invoke (closure.clj:1771)
+    clojure.lang.Atom.swap (Atom.java:37)
+    clojure.core$swap_BANG_.invoke (core.clj:2238)
+    cljs.closure$build.invoke (closure.clj:1765)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15896.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15942.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15893.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15696.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15702.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15705.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15699.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15717.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804$fn__15809.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15803$state_machine__9610__auto____15804.invoke (auto.clj:178)
+    clojure.core.async.impl.ioc_macros$run_state_machine.invoke (ioc_macros.clj:940)
+    clojure.core.async.impl.ioc_macros$run_state_machine_wrapped.invoke (ioc_macros.clj:944)
+    clojure.core.async$ioc_alts_BANG_$fn__9789.invoke (async.clj:362)
+    clojure.core.async$do_alts$fn__9735$fn__9738.invoke (async.clj:231)
+    clojure.core.async.impl.channels.ManyToManyChannel/fn (channels.clj:262)
+    clojure.lang.AFn.run (AFn.java:22)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:745)
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling resources/public/js/out/om/dom.cljs
+Compiling resources/public/js/out/om/next/protocols.cljs
+Compiling resources/public/js/out/om/next/stores.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:resources/public/js/out/om/next/stores.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3372.invoke (compiler.cljc:1343)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1310)
+    cljs.closure$compile_file.invoke (closure.clj:434)
+    cljs.closure$eval3829$fn__3830.invoke (closure.clj:491)
+    cljs.closure$eval3768$fn__3769$G__3757__3776.invoke (closure.clj:391)
+    cljs.closure$compile_from_jar.invoke (closure.clj:479)
+    cljs.closure$eval3835$fn__3836.invoke (closure.clj:501)
+    cljs.closure$eval3768$fn__3769$G__3757__3776.invoke (closure.clj:391)
+    cljs.closure$compile_sources$iter__3926__3930$fn__3931.invoke (closure.clj:753)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:749)
+    cljs.closure$build.invoke (closure.clj:1804)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15875.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16194.invoke (notifications.clj:182)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16270.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16316.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16331$figwheel_start_and_end_messages__16334$fn__16336.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__16358$fn__16359.invoke (cljs_autobuild.clj:125)
+    figwheel_sidecar.utils$sync_exec$fn__1973$fn__1974.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__1973.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.142 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/cljs"]...
+Compiling /home/andrel/Projects/Clojure/my-contacts-backend/src/cljs/my_contacts/core.cljs
+WARNING: Use of undeclared Var om.next/normalize at line 17 /home/andrel/Projects/Clojure/my-contacts-backend/src/cljs/my_contacts/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/my_contacts/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.289 seconds.[0m
